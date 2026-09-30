@@ -1,0 +1,224 @@
+{
+  "banners": [
+    {
+      "title": "ArdoTv Hub 1.2",
+      "subtitle": "Yangi: ekran saqlovchi, ob-havo, profillar va ovozli qidiruv",
+      "color": "#3B5BDB",
+      "action": "hub_settings"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Asosiy",
+      "apps": [
+        {
+          "name": "YouTube",
+          "packages": [
+            "com.google.android.youtube.tv"
+          ],
+          "color": "#E62117",
+          "featured": true
+        },
+        {
+          "name": "Play Market",
+          "packages": [
+            "com.android.vending"
+          ],
+          "color": "#1FA463"
+        },
+        {
+          "name": "Prime Video",
+          "packages": [
+            "com.amazon.amazonvideo.livingroom"
+          ],
+          "color": "#1399FF",
+          "featured": true
+        },
+        {
+          "name": "Kinopoisk",
+          "packages": [
+            "ru.kinopoisk.tv",
+            "ru.kinopoisk"
+          ],
+          "color": "#FF5500"
+        },
+        {
+          "name": "AIA Channel",
+          "packages": [],
+          "color": "#7B3FE4"
+        },
+        {
+          "name": "Movieark",
+          "packages": [],
+          "color": "#D6336C"
+        }
+      ]
+    },
+    {
+      "title": "Kino va seriallar",
+      "apps": [
+        {
+          "name": "Netflix",
+          "packages": [
+            "com.netflix.ninja"
+          ],
+          "color": "#B20710",
+          "featured": true
+        },
+        {
+          "name": "Disney+",
+          "packages": [
+            "com.disney.disneyplus"
+          ],
+          "color": "#113CCF"
+        },
+        {
+          "name": "IVI",
+          "packages": [
+            "ru.ivi.client.tv",
+            "ru.ivi.client"
+          ],
+          "color": "#EA003D"
+        },
+        {
+          "name": "Okko",
+          "packages": [
+            "ru.more.play.tv",
+            "ru.more.play"
+          ],
+          "color": "#5B2EFF"
+        },
+        {
+          "name": "Wink",
+          "packages": [
+            "ru.rt.video.app.tv"
+          ],
+          "color": "#FF4F12"
+        },
+        {
+          "name": "Kion",
+          "packages": [
+            "ru.mts.mtstv",
+            "ru.mts.mtstv.tv"
+          ],
+          "color": "#FF0032"
+        }
+      ]
+    },
+    {
+      "title": "O'zbek TV",
+      "apps": [
+        {
+          "name": "Beeline TV",
+          "packages": [],
+          "color": "#F5B700"
+        },
+        {
+          "name": "Uztelecom iTV",
+          "packages": [],
+          "color": "#0A7AFF"
+        },
+        {
+          "name": "Milliy TV",
+          "packages": [],
+          "color": "#1B9C5A"
+        }
+      ]
+    },
+    {
+      "title": "Musiqa va bolalar",
+      "apps": [
+        {
+          "name": "Spotify",
+          "packages": [
+            "com.spotify.tv.android"
+          ],
+          "color": "#1DB954"
+        },
+        {
+          "name": "YouTube Music",
+          "packages": [
+            "com.google.android.youtube.tvmusic"
+          ],
+          "color": "#FF0033"
+        },
+        {
+          "name": "YouTube Kids",
+          "packages": [
+            "com.google.android.youtube.tvkids"
+          ],
+          "color": "#F5A623"
+        }
+      ]
+    },
+    {
+      "title": "Vositalar",
+      "apps": [
+        {
+          "name": "VLC",
+          "packages": [
+            "org.videolan.vlc"
+          ],
+          "color": "#FF8800",
+          "featured": true
+        },
+        {
+          "name": "Kodi",
+          "packages": [
+            "org.xbmc.kodi"
+          ],
+          "color": "#17B2E7",
+          "featured": true
+        },
+        {
+          "name": "TV Bro",
+          "packages": [
+            "com.phlox.tvwebbrowser"
+          ],
+          "color": "#3B5BDB"
+        },
+        {
+          "name": "Puffin TV",
+          "packages": [
+            "com.cloudmosa.puffinTV"
+          ],
+          "color": "#2B8A9E"
+        },
+        {
+          "name": "Wi-Fi",
+          "packages": [],
+          "action": "wifi",
+          "color": "#3D5A80"
+        },
+        {
+          "name": "Sozlamalar",
+          "packages": [],
+          "action": "settings",
+          "color": "#495670"
+        }
+      ]
+    }
+  ],
+  "quick": [
+    {
+      "name": "Qidiruv",
+      "color": "#334155",
+      "action": "search"
+    },
+    {
+      "name": "Barcha ilovalar",
+      "color": "#334155",
+      "action": "all_apps"
+    },
+    {
+      "name": "Wi-Fi",
+      "color": "#0F766E",
+      "action": "wifi"
+    },
+    {
+      "name": "Sozlamalar",
+      "color": "#334155",
+      "action": "hub_settings"
+    }
+  ]
+}

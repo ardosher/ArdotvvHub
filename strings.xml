@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">ArdoTv Hub</string>
+    <string name="app_tagline">Televizoringiz uchun ilovalar</string>
+
+    <string name="section_recommended">Tavsiya etilganlar</string>
+    <string name="section_favorites">Sevimli ilovalar</string>
+    <string name="section_continue">Tomosha qilishni davom ettiring</string>
+    <string name="section_recent">Oxirgi ochilganlar</string>
+    <string name="section_hdmi">Kirishlar (HDMI)</string>
+    <string name="section_quick">Tezkor tugmalar</string>
+
+    <string name="card_all_apps">Barcha ilovalar</string>
+    <string name="card_search">Qidiruv</string>
+    <string name="card_settings">ArdoTv Hub sozlamalari</string>
+
+    <string name="badge_install">O\'rnatish</string>
+    <string name="badge_not_installed">O\'rnatilmagan</string>
+
+    <string name="menu_open">Ochish</string>
+    <string name="menu_add_fav">Sevimlilarga qo\'shish</string>
+    <string name="menu_remove_fav">Sevimlilardan olib tashlash</string>
+    <string name="menu_about">Ilova haqida</string>
+    <string name="menu_market">Play Market</string>
+    <string name="menu_uninstall">O\'chirish</string>
+
+    <string name="info_package">Paket nomi</string>
+    <string name="info_status">Holati</string>
+    <string name="info_installed">O\'rnatilgan</string>
+    <string name="info_not_installed">O\'rnatilmagan</string>
+    <string name="info_version_name">Versiya nomi</string>
+    <string name="info_version_code">Versiya kodi</string>
+    <string name="info_install_date">O\'rnatilgan sana</string>
+    <string name="info_description">Tavsif</string>
+    <string name="info_unknown">Noma\'lum</string>
+
+    <string name="close">Yopish</string>
+
+    <string name="all_apps_title">Barcha ilovalar (%1$d)</string>
+
+    <string name="search_title">Qidiruv</string>
+    <string name="search_hint">Ilova nomini yozing</string>
+    <string name="search_no_results">Hech narsa topilmadi</string>
+    <string name="key_space">Bo\'sh joy</string>
+    <string name="key_backspace">\u2190</string>
+    <string name="key_clear">Tozalash</string>
+
+    <string name="wifi_connected">Wi-Fi: Ulangan</string>
+    <string name="wifi_disconnected">Wi-Fi: Ulanmagan</string>
+    <string name="internet_connected">Internet: Ulangan</string>
+    <string name="internet_disconnected">Internet: Ulanmagan</string>
+
+    <string name="apps_json_error">Ilovalar ro\'yxati (apps.json) o\'qilmadi: %1$s</string>
+
+    <string name="toast_not_installed_market">%1$s o\'rnatilmagan. Play Market ochilmoqda</string>
+    <string name="toast_market_failed">Play Market ochilmadi</string>
+    <string name="toast_open_failed">%1$s ochilmadi</string>
+    <string name="toast_system_app">Bu tizim ilovasi, uni o\'chirib bo\'lmaydi</string>
+    <string name="toast_uninstall_failed">O\'chirish oynasi ochilmadi</string>
+    <string name="toast_added_fav">Sevimlilarga qo\'shildi</string>
+    <string name="toast_removed_fav">Sevimlilardan olib tashlandi</string>
+
+    <string name="settings_title">ArdoTv Hub sozlamalari</string>
+    <string name="settings_favorites">Sevimlilarni boshqarish</string>
+    <string name="settings_card_size">Ilovalar ko\'rinishi (kartochka o\'lchami)</string>
+    <string name="settings_animations">Animatsiyalarni yoqish/o\'chirish</string>
+    <string name="settings_show_clock">Soatni ko\'rsatish</string>
+    <string name="settings_show_date">Sana ko\'rsatish</string>
+    <string name="settings_show_wifi">Wi-Fi statusini ko\'rsatish</string>
+    <string name="settings_show_internet">Internet statusini ko\'rsatish</string>
+    <string name="settings_auto_refresh">Avtomatik refresh</string>
+    <string name="settings_show_recommended">Tavsiya etilganlarni ko\'rsatish</string>
+    <string name="settings_show_hdmi">HDMI bo\'limini ko\'rsatish</string>
+    <string name="settings_show_quick">Tezkor tugmalarni ko\'rsatish</string>
+    <string name="settings_confirm_uninstall">O\'chirishdan oldin so\'rash</string>
+    <string name="settings_section_data">Ma\'lumotlar</string>
+    <string name="settings_clear_recent">Oxirgi ochilganlarni tozalash</string>
+    <string name="settings_clear_cache">Ikonka keshini tozalash</string>
+    <string name="settings_reset">Sozlamalarni boshlang\'ich holatga qaytarish</string>
+    <string name="toast_recent_cleared">Oxirgi ochilganlar tozalandi</string>
+    <string name="toast_cache_cleared">Ikonka keshi tozalandi</string>
+    <string name="toast_reset_done">Sozlamalar boshlang\'ich holatga qaytarildi</string>
+    <string name="confirm_uninstall_title">%1$s o\'chirilsinmi?</string>
+    <string name="confirm_reset_title">Barcha ko\'rinish sozlamalari boshlang\'ich holatga qaytarilsinmi?</string>
+    <string name="confirm_clear_recent_title">Oxirgi ochilganlar tozalansinmi?</string>
+    <string name="confirm_yes">Ha</string>
+    <string name="confirm_no">Bekor qilish</string>
+    <string name="settings_theme">Mavzu (tema)</string>
+    <string name="settings_background">Fon</string>
+    <string name="settings_launcher_info">Launcher sifatida ishlatish haqida</string>
+    <string name="settings_about">Ilova haqida</string>
+    <string name="settings_version">Versiya</string>
+    <string name="on">Yoniq</string>
+    <string name="off">O\'chiq</string>
+    <string name="card_size_small">Kichik</string>
+    <string name="card_size_medium">O\'rtacha</string>
+    <string name="card_size_large">Katta</string>
+    <string name="theme_dark">Qorong\'i</string>
+    <string name="theme_light">Yorug\'</string>
+    <string name="theme_auto">Avtomatik</string>
+    <string name="bg_default">Standart gradient</string>
+    <string name="bg_dark">Qorong\'i gradient</string>
+    <string name="bg_blue">Ko\'k gradient</string>
+    <string name="bg_purple">Binafsha gradient</string>
+    <string name="bg_green">Yashil gradient</string>
+    <string name="favorites_empty">Sevimlilar ro\'yxati bo\'sh</string>
+
+    <string name="launcher_info_text">ArdoTv Hub\'ni asosiy ekran (Home) sifatida tanlash uchun: televizorning Home tugmasini bosing, ro\'yxatdan "ArdoTv Hub" ni tanlang va "Doim" (Always) variantini bosing. Eski launcher\'ga qaytish uchun: Sozlamalar &gt; Ilovalar &gt; ArdoTv Hub &gt; "Standart sozlamalarni tozalash".</string>
+
+    <string name="continue_empty_hint">Hozircha tomosha tarixi yo\'q</string>
+
+    <!-- v1.2 -->
+    <string name="badge_new">Yangi</string>
+
+    <string name="settings_profiles">Profillar</string>
+    <string name="profiles_title">Profillar</string>
+    <string name="profile_active">Faol</string>
+    <string name="profile_add">\u002B  Yangi profil qo\'shish</string>
+    <string name="profile_rename">Faol profil nomini o\'zgartirish</string>
+    <string name="profile_delete">Profilni o\'chirish</string>
+    <string name="profile_pick_name">Profil nomini tanlang</string>
+    <string name="confirm_delete_profile">%1$s profili o\'chirilsinmi? Uning sevimlilari va sozlamalari yo\'qoladi.</string>
+
+    <string name="settings_screensaver">Ekran saqlovchi (harakatsizlikdan keyin)</string>
+    <string name="screensaver_minutes">%1$d daqiqa</string>
+    <string name="settings_show_banners">Reklama bannerlarini ko\'rsatish</string>
+    <string name="settings_show_volume">Ovoz indikatorini ko\'rsatish</string>
+    <string name="settings_show_weather">Ob-havoni ko\'rsatish</string>
+    <string name="settings_weather_city">Ob-havo shahri</string>
+    <string name="settings_voice_lang">Ovozli qidiruv tili</string>
+    <string name="voice_lang_uz">O\'zbekcha</string>
+    <string name="voice_lang_ru">Ruscha</string>
+    <string name="voice_lang_en">Inglizcha</string>
+    <string name="voice_lang_system">Tizim tili</string>
+    <string name="voice_prompt">Nima qidiramiz?</string>
+    <string name="toast_voice_unsupported">Bu televizorda ovozli qidiruv yo\'q. Oddiy qidiruv ochildi</string>
+    <string name="toast_voice_nothing">Ovoz aniqlanmadi</string>
+
+    <string name="about_title">Ilova va qurilma haqida</string>
+    <string name="about_device">Qurilma</string>
+    <string name="about_storage">Xotira (saqlash)</string>
+    <string name="about_ram">Operativ xotira (RAM)</string>
+    <string name="about_free_of">%1$s bo\'sh / %2$s</string>
+    <string name="about_errors">Xatoliklar jurnali (%1$d)</string>
+    <string name="errors_title">Xatoliklar jurnali</string>
+    <string name="errors_empty">Xatoliklar yo\'q</string>
+    <string name="errors_clear">Jurnalni tozalash</string>
+    <string name="toast_errors_cleared">Jurnal tozalandi</string>
+</resources>
